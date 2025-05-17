@@ -1,0 +1,84 @@
+{
+  "examiners": [
+    {
+      "id":1 ,
+      "firstName": "John" ,
+      "lastName": "Doe" ,
+      "nationalProviderIdentifier": "1234567890"
+    },
+    {
+      "id":2 ,
+      "firstName": "Marco" ,
+      "lastName": "Nakasone" ,
+      "nationalProviderIdentifier": "0987654321"
+    }
+  ],
+  "exams":[
+    {
+      "id": 2,
+      "patientId": 1,
+      "examinerId": 1,
+      "examDate": "2025-20-02",
+      "orientationScore": 19,
+      "registrationScore": 10,
+      "attentionAndCalculationScore": 8,
+      "recallScore": 17,
+      "languageScore": 16
+    },
+    {
+      "id": 3,
+      "patientId": 3,
+      "examinerId": 2,
+      "examDate": "2024-11-11",
+      "orientationScore": 20,
+      "registrationScore": 14,
+      "attentionAndCalculationScore": 15,
+      "recallScore": 19,
+      "languageScore": 15
+    },
+    {
+      "id": 4,
+      "patientId": 4,
+      "examinerId": 2,
+      "examDate": "2022-12-19",
+      "orientationScore": 19,
+      "registrationScore": 15,
+      "attentionAndCalculationScore": 14,
+      "recallScore": 13,
+      "languageScore": 19
+    },
+    {
+      "id": 5,
+      "patientId": 5,
+      "examinerId": 2,
+      "examDate": "2021-05-12",
+      "orientationScore": 12,
+      "registrationScore": 16,
+      "attentionAndCalculationScore": 14,
+      "recallScore": 17,
+      "languageScore": 12
+    },
+    {
+      "id": 6,
+      "patientId": 6,
+      "examinerId": 1,
+      "examDate": "2023-08-22",
+      "orientationScore": 20,
+      "registrationScore": 19,
+      "attentionAndCalculationScore": 18,
+      "recallScore": 15,
+      "languageScore": 13
+    },
+    {
+      "id": 7,
+      "patientId": 7,
+      "examinerId": 1,
+      "examDate": "2021-11-12",
+      "orientationScore": 12,
+      "registrationScore": 15,
+      "attentionAndCalculationScore": 14,
+      "recallScore": 19,
+      "languageScore": 20
+    }
+  ]
+}
