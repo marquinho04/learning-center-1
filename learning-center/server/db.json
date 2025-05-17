@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Tech Summit 2025",
+      "description": "Annual technology conference bringing together professionals from the industry.",
+      "scheduledAt": "2025-06-10T09:00:00"
+    },
+    {
+      "id": 2,
+      "name": "UX/UI Workshop",
+      "description": "Interactive workshop to improve user experience and interface design skills.",
+      "scheduledAt": "2025-06-15T14:00:00"
+    }
+  ],
+  "attendees": [
+    {
+      "id": 1,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "eventId": 1,
+      "ticketIdentifier": "TS2025-A1",
+      "checkedInAt": "2025-06-10T09:05:00"
+    },
+    {
+      "id": 2,
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "eventId": 1,
+      "ticketIdentifier": "TS2025-B2",
+      "checkedInAt": "2025-05-17T16:53:15.140Z"
+    },
+    {
+      "id": 3,
+      "firstName": "Carol",
+      "lastName": "Martinez",
+      "eventId": 2,
+      "ticketIdentifier": "UX2025-C3",
+      "checkedInAt": "2025-05-17T16:54:22.329Z"
+    },
+    {
+      "id": 4,
+      "firstName": "David",
+      "lastName": "Lee",
+      "eventId": 2,
+      "ticketIdentifier": "UX2025-D4",
+      "checkedInAt": "2025-06-15T14:02:00"
+    },
+    {
+      "id": 5,
+      "firstName": "Eve",
+      "lastName": "Nguyen",
+      "eventId": 2,
+      "ticketIdentifier": "UX2025-E5",
+      "checkedInAt": null
+    }
+  ]
+}

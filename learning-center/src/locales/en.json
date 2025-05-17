@@ -1,0 +1,14 @@
+{
+  "home": "Home",
+  "welcome": "Welcome to Eventify",
+  "check-in": "Check-In",
+  "ticket": "Ticket Identifier",
+  "submit": "Check-In",
+  "alreadyCheckedIn": "Already Checked-In",
+  "invalidTicket": "Invalid Ticket Identifier",
+  "registeredEvents": "Registered Events",
+  "registeredAttendees": "Registered Attendees",
+  "attendancePercentage": "Attendance",
+  "pageNotFound": "Page Not Found",
+  "goToHome": "Go to Home"
+}

@@ -1,0 +1,14 @@
+{
+  "home": "Inicio",
+  "welcome": "Bienvenido a Eventify",
+  "check-in": "Registro",
+  "ticket": "Identificador de Ticket",
+  "submit": "Registrar",
+  "alreadyCheckedIn": "Ya registrado",
+  "invalidTicket": "Identificador de ticket inválido",
+  "registeredEvents": "Eventos Registrados",
+  "registeredAttendees": "Asistentes Registrados",
+  "attendancePercentage": "Porcentaje de Asistencia",
+  "pageNotFound": "Page Not Found",
+  "goToHome": "Go to Home"
+}
